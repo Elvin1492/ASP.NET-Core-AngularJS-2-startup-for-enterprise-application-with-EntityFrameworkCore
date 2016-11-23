@@ -1,5 +1,5 @@
---temp-output:C:\Users\Elvin\documents\visual studio 2015\Projects\StartUpApp.Web.UI\src\StartUpApp.Core\obj\Debug\netstandard1.6\
---out:C:\Users\Elvin\documents\visual studio 2015\Projects\StartUpApp.Web.UI\src\StartUpApp.Core\bin\Debug\netstandard1.6\StartUpApp.Core.dll
+--temp-output:C:\Users\Elvin\Documents\Visual Studio 2015\Projects\StartUpApp.Web.UI\src\StartUpApp.Core\obj\Debug\netstandard1.6\
+--out:C:\Users\Elvin\Documents\Visual Studio 2015\Projects\StartUpApp.Web.UI\src\StartUpApp.Core\bin\Debug\netstandard1.6\StartUpApp.Core.dll
 --define:DEBUG
 --define:TRACE
 --define:NETSTANDARD1_6
@@ -55,7 +55,7 @@
 --reference:C:\Users\Elvin\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Elvin\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Elvin\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-C:\Users\Elvin\documents\visual studio 2015\Projects\StartUpApp.Web.UI\src\StartUpApp.Core\EntityBase.cs
-C:\Users\Elvin\documents\visual studio 2015\Projects\StartUpApp.Web.UI\src\StartUpApp.Core\Domain\Category.cs
-C:\Users\Elvin\documents\visual studio 2015\Projects\StartUpApp.Web.UI\src\StartUpApp.Core\Domain\Product.cs
-C:\Users\Elvin\documents\visual studio 2015\Projects\StartUpApp.Web.UI\src\StartUpApp.Core\Properties\AssemblyInfo.cs
+C:\Users\Elvin\Documents\Visual Studio 2015\Projects\StartUpApp.Web.UI\src\StartUpApp.Core\EntityBase.cs
+C:\Users\Elvin\Documents\Visual Studio 2015\Projects\StartUpApp.Web.UI\src\StartUpApp.Core\Domain\Category.cs
+C:\Users\Elvin\Documents\Visual Studio 2015\Projects\StartUpApp.Web.UI\src\StartUpApp.Core\Domain\Product.cs
+C:\Users\Elvin\Documents\Visual Studio 2015\Projects\StartUpApp.Web.UI\src\StartUpApp.Core\Properties\AssemblyInfo.cs
